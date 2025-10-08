@@ -15,6 +15,6 @@
     <img src="https://img.shields.io/badge/GitHub-hung0302-black?style=flat-square&logo=github" alt="GitHub Badge"/>
   </a>
   <a href="mailto:vhungy302@gmail.com">
-    <img src="https://img.shields.io/badge/Email-you@example.com-F48703?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-vhungy302@gmail.com-F48703?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
